@@ -3,9 +3,13 @@ Repository for Getting and Cleaning Data Course Project
 
 The aim of the project is to clean and extract usable data collected from the accelerometers from the Samsung Galaxy S smartphone in a study.
 In this project, you find:
-•  run_analysis.R : the R-code run on the data set
+
+• run_analysis.R : the R-code run on the data set
+
 •	Tidy.txt : the clean data extracted from the original data using run_analysis.R
+
 •	CodeBook.md : the CodeBook reference to the variables in Tidy.txt
+
 •	README.md : the analysis of the code in run_analysis.R
 
 Libraries Used
